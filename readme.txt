@@ -5,4 +5,4 @@ This is a new versioin readmefile.
 Git has a mutable index called stage.
 
 new
-Git tracks changes.
+Git tracks changes of files.
