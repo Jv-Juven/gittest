@@ -10,3 +10,4 @@ Git tracks changes of files.
 I am learning branch of git.
 
 Creat a new branch is quick and simple.
+Add merge.
