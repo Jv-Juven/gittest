@@ -11,3 +11,6 @@ I am learning branch of git.
 
 Creat a new branch is quick and simple.
 Add merge.
+
+I am fixing bugs.
+Add stash.
